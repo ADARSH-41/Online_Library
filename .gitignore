@@ -1,0 +1,27 @@
+#ignore maven builds
+target/
+
+#ignore .vscode settings
+.vscode/
+
+#ignore eclipse settings
+.project
+.classpath
+.settings/
+
+#ignore build output
+bin/
+
+#ignore java compiled files
+*.class
+
+#ignore log files
+*.log
+
+#ignore OS generated files
+.DS_Store
+Thumbs.db
+
+#ignore temporary files
+*.tmp
+*.swp
